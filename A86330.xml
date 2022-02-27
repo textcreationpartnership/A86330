@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of the souls of men, women, and children; and of the holy and blessed angels in heaven, and of the evil and damned spirits in hell: shewing that they are immortal, spiritual substances, as well as the angels in heaven. Written because this author met with four willfull ignorant men at one time, which said, the souls of men, women, and children, were nothing but breath, and vanished into air, when as the body went to the grave. These unfaithful people ought to be answered and reproved: / by the author, Thomas Hicks.</title>
+            <author>Hicks, Thomas, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86330</idno>
+            <idno type="STC">Wing H1882</idno>
+            <idno type="STC">Thomason E903_5</idno>
+            <idno type="STC">ESTC R207421</idno>
+            <idno type="EEBO-CITATION">99866471</idno>
+            <idno type="PROQUEST">99866471</idno>
+            <idno type="VID">118746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118746)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 136:E903[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of the souls of men, women, and children; and of the holy and blessed angels in heaven, and of the evil and damned spirits in hell: shewing that they are immortal, spiritual substances, as well as the angels in heaven. Written because this author met with four willfull ignorant men at one time, which said, the souls of men, women, and children, were nothing but breath, and vanished into air, when as the body went to the grave. These unfaithful people ought to be answered and reproved: / by the author, Thomas Hicks.</title>
+                  <author>Hicks, Thomas, 17th cent.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Newcomb, and are to be sold by the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Feb: 16"; the 7 in imprint date has been crossed out and date altered to 1656.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soul --  Early works to 1800.</term>
+               <term>Christianity --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118746:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF THE SOULS OF Men, Women, and Children; and of the Holy and Bleſſed Angels in Heaven, and of the Evil and Damned Spirits in Hell: SHEWING That they are Immortal, Spiritual ſubſtances, as well as the Angels in Heaven.</p>
+            <p>Written becauſe this Author met with Four willfull Ignorant men at one time, which ſaid, the Souls of Men, Women, and Children, were nothing but breath, and vaniſhed into air, when as the Body went to the Grave. Theſe unfaithful people ought to be anſwered and reproved:</p>
+            <p>
+               <hi>By the Author,</hi> THOMAS HICKS.</p>
+            <p>LONDON, Printed by <hi>T. Newcomb,</hi> and are to be ſold by the Author, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118746:2"/>
+            <pb n="3" facs="tcp:118746:2"/>
+            <head>A Diſcourſe of the Souls of Men and Women and Children, and of the Holy and Bleſſed Angels in Heaven, and of the evill and damned Spirits in Hell, ſhewing that they are immortall ſpiritual ſubſtances, as well as the An<g ref="char:EOLhyphen"/>gels in Heaven.</head>
+            <p>LOving Chriſtians, my deſire at this time is, to write of high and powerful ſpiritual creatures, the higheſt and nobleſt creatures by Creation, which God hath revealed unto the ſons of men; that is, of the An<g ref="char:EOLhyphen"/>gels in heaven, and of the ſouls of men and women, and of the evill wicked ſpirits which are kept in chains of darknes for the day of wrath, theſe three great creatures, and all three ſpiritual ſubſtances, ſhall by the aſſiſtance of Gods help, be my Diſcourſe at this time, becauſe I have been oppoſed by ignorant ſimple men againſt the truth of the ſpiritual ſubſtances of men and womens ſouls; theſe men ſee the groſs ſub<g ref="char:EOLhyphen"/>ſtances of ſea and land, and of their bodies, but want the eye of Faith and Knowledge, to know the excel<g ref="char:EOLhyphen"/>lent ſpiritual creature which God hath given to them, therefore although the ſouls of men and women are the youngeſt ſpirits of the three, which we diſcourſe upon; yet the elected ſouls of men, women and children, be<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:118746:3"/>
+great ſpiritual Princes and Heirs to the kingdom of heaven; In order, we ſpeak of them firſt: The ſouls of men women and children are ſpiritual ſubſtan<g ref="char:EOLhyphen"/>ces, as well as the Angels in heaven; but they are young growing ſpirits, and have not yet attained to perfection, yet the Lord almighty beareth great love and good will unto them; he gave for a ranſome for theſe young ſpirits, and their own bodies, his dear and onely Son Chriſt Jeſus, who being perfect and glo<g ref="char:EOLhyphen"/>rious, God coequal with the Father, and Holy Spirit, yet he took a reaſonable ſoul and body upon him, and ſo died for the ſoul and body of mankind: Won<g ref="char:EOLhyphen"/>derful love unto theſe yong ſpiritual ſouls, he ſends his own Holy Spirit into them: <hi>Open your gates, your everlaſting gates, and the King of glory ſhall come in;</hi> that is the ſoul of man twice ſpoken of in the four and twenty Pſalm: The Spirit of God daily teacheth this young heir knowledge, to make him grow more holy and righteous, and hath given his holy Word unto him plainly, to make him know how to order his thoughts and deſires, and to take good heed that that old, and ſubtile evill Spirit, the Devil, doth not deceive him. Chriſt Jeſus commandeth this noble young ſpirit, to come unto him by faith and prayer, and to truſt in him that he will protect them in this world, where he muſt ſtay while he come to that ſtate of grace and knowledge which God hath appointed him: Mortall men cannot ſee the immortal ſub<g ref="char:EOLhyphen"/>ſtance of their ſouls, with their bodily eyes; no more they cannot ſee the Angels which tarry about them, unleſs they do aſſume a body to themſelves, no nor they cannot ſee the Divel and evill ſpirits although
+<pb n="5" facs="tcp:118746:3"/>
+they do go throughout the world continually with malice and envy to tempt and intice the ſouls of men and women to ſin and rebellion, as it doth appear plainly in <hi>Job;</hi> and the evill ſpirit was ready as ſoon as he had Commiſſion to be a lying ſpirit in the ſpeech of all King <hi>Ahabs</hi> Prophets; yet we cannot ſee theſe ſpirits, and it is Gods great mercy unto us for mor<g ref="char:EOLhyphen"/>tal men cannot ſee inviſible ſpiritual creatures with<g ref="char:EOLhyphen"/>out great fear and trouble. <hi>Daniel</hi> was much trou<g ref="char:EOLhyphen"/>bled at the ſight and appearance of good angels, our eyes are made to look upwards to behold the Sun, and the Moon, and the Stars, and all earthly ſubſtan<g ref="char:EOLhyphen"/>ces, but the inviſible ſpiritual creatures of Angels, and the ſpirits of men, women, and children, are more excellent and laſting ſubſtances; and the ſouls of the righteous which are redeemed by Chriſt Jeſus alone, they and the holy Angels ſhall ſtand firm for ever, when all the earthly ſubſtances in the world ſhall be conſumed and burnt to nothing; then ſhall theſe in<g ref="char:EOLhyphen"/>viſible ſpirits of men, women, and children, be made perfect, and have their own bodies made a glorious body, and fit for ſuch a noble and perfect ſpirit. They are ſimple and fooliſh men that think they have no ſpirits becauſe they cannot ſee them, they may as well deny the good Angels, and the evill ſpirits to be no ſpiritual ſubſtances, as to deny the ſouls of men to be immortal ſpiritual ſubſtances, which none but Atheiſts and madmen will deny. For the holy An<g ref="char:EOLhyphen"/>gels do appear plainly by holy Scripture, to be crea<g ref="char:EOLhyphen"/>tures by Gods commiſſion of mighty force and power, to be meſſengers to help Gods people, and to deſtroy the wicked; the Angel of the Lord ſlew in <hi>Zena<g ref="char:EOLhyphen"/>cheribs</hi>
+               <pb n="6" facs="tcp:118746:4"/>
+hoſt many thouſands of men, and ſaved <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and the people of God; the Angel of God brought S. <hi>Peter</hi> out of priſon, and guided him tho<g ref="char:EOLhyphen"/>row the ſtreets; the Angel of the Lord by commiſſi<g ref="char:EOLhyphen"/>on ſlew of the plague in <hi>Jeruſalem,</hi> and in the coun<g ref="char:EOLhyphen"/>trey in three dayes ſeventy thouſand men; the Angel of the Lord ſmote the men of <hi>Sodom</hi> with blindneſs; the Angel of the Lord was a meſſenger to <hi>Zachari<g ref="char:EOLhyphen"/>as,</hi> and to the Virgin <hi>Mary,</hi> and thouſands of Angels, proclaiming good will and joy to men; at our Savi<g ref="char:EOLhyphen"/>ours Birth the Angels appeared; at Chriſts ſuffering, and comforted him, the Angels appeared at Chriſts Reſurrection, and told <hi>Mary</hi> he was riſen from the dead, thouſand thouſands, and ten thouſand thouſands wait upon God, the holy bleſſed Trinity; are ready to do his will at all times, and by commiſſion and ap<g ref="char:EOLhyphen"/>pointment they wait upon men alſo: <hi>For take heed</hi> (ſaith our Saviour) <hi>that ye offend not one of theſe little ones that beleeveth in me,</hi> for their Angel beholdeth the face of my Father which is in heaven continual<g ref="char:EOLhyphen"/>ly; the Angels of the Lord do tarry about the righ<g ref="char:EOLhyphen"/>teous to ſave them, and S. <hi>Paul</hi> biddeth <hi>women to be covered on their head, modeſtly, becauſe of the An<g ref="char:EOLhyphen"/>gels,</hi> the Angels ſee us all, though we cannot ſee them; then what ſimple men are they that have ſo little care of their ſouls, when the very Angels wait on them: for the Angels in heaven, do joy at the converſion of one ſinner, and when S. <hi>Peter</hi> knocked at his friends door, they ſaid, <hi>It was his angel;</hi> they are <hi>miniſtring ſpirits</hi> (ſaith Saint <hi>Paul) ſent forth for the good of his elect,</hi> the Angel of the Lord appeared to <hi>Gideon</hi> to inſtruct him in the war; the Angel of the Lord per<g ref="char:EOLhyphen"/>ſwaded
+<pb n="7" facs="tcp:118746:4"/>
+               <hi>Hagar</hi> to return, and humble her ſelf to her Miſtreſs: The Angel of the Lord told <hi>Cornelius</hi> what he ſhould do; The Angel of the Lord rebuked <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> becauſe he had not circumciſed his ſons; The An<g ref="char:EOLhyphen"/>gel of the Lord rebuked <hi>Balaam</hi> for covetouſneſs: The Angel of the Lord delivered <hi>Lot</hi> out of <hi>Sodom;</hi> The Angel of the Lord ſmote <hi>Herod;</hi> The Angel of God declared <hi>Sampſons</hi> birth. Now you may ſee plainly the wiſdome, and power, and offices, of theſe glorious creatures, that they receive of God for the good of our ſouls and bodies; and ſhall any of us dare to ſay, our ſoul is not a ſpiritual ſubſtance upon whom theſe Angels do wait: The ſoul of man hath ſometimes revelations and dreams of truth, as <hi>Daniel, Joſeph,</hi> and 1 <hi>Kings</hi> 3.5. in <hi>Gibeon</hi> the Lord appear<g ref="char:EOLhyphen"/>ed to <hi>Solomon</hi> in a dream by night, and God ſaid, <hi>Ask, what I ſhall give thee.</hi> No man need to doubt but that this was his ſoul that God appeard unto; and the word of the Lord was like fire in the Prophets: <hi>I ſaw the ſouls of the Martyrs under the Altar,</hi> ſaith S. <hi>John, crying for juſtice,</hi> although when they were in this world they cried for mercy; the ſouls of faith<g ref="char:EOLhyphen"/>full beleevers in the world do pray for the young chil<g ref="char:EOLhyphen"/>dren of God their friends and alliance, and deſire the good of all men, but when they are grown holy and perfect in the world to come; then they ſhall ſtand boldly againſt their enemies, and rejoyce in Gods righteous judgement upon them.</p>
+            <p>Now by Gods help I will ſpeak ſomething in particular of the ſouls of men and women; the ſoul is a ſpiritual ſubſtance, not ſeen of mortal eyes, unleſs God open their eyes, as S. <hi>John</hi> in the Reve<g ref="char:EOLhyphen"/>lation,
+<pb n="8" facs="tcp:118746:5"/>
+the ſoul giveth life and heat to the body; the ſoul is the maſter, the body the ſervant, the body run<g ref="char:EOLhyphen"/>neth and goeth at the ſouls command; if the deſires and the love, and the luſts of the ſoul be wicked and ungodly, it ſets the tongue and the whole body to do<g ref="char:EOLhyphen"/>ing of wickedneſs; it is moſt certain God hath pla<g ref="char:EOLhyphen"/>ced the ſoul and body in a very neer union and friend<g ref="char:EOLhyphen"/>ſhip, ſo that the body is maintained and preſerved by the wiſdome of the ſoul; the five ſenſes, ſeeing, hear<g ref="char:EOLhyphen"/>ing, ſmelling, taſting, and feeling; and hands, and feet, and ſtrength are of the body, with the help of an active ſpirit, but the ſoul is of a more excellent na<g ref="char:EOLhyphen"/>ture; it hath the image of the holy Spirit of God, it hath wiſdome, knowledge, and underſtanding, and remembrance, and imaginations, and it hath love and affection, the will, and the thoughts; now this ſoul being young, and not come to perfection, the holy ſpirit of God cometh and teacheth him more wiſdom, and knowledge, and underſtanding, and gives him ma<g ref="char:EOLhyphen"/>ny graces, he giveth faith and hope, and giveth him humility and love, to love the good, and hate the ill, he placeth in this young ſpirit judgement and conſci<g ref="char:EOLhyphen"/>ence, being compoſed of the higheſt parts of the ſoul, and underſtanding, and knowledge, and remembrance; he ſits like a Judge too, examining what his ſoul and body hath done. Underſtanding and knowledge be<g ref="char:EOLhyphen"/>ing inlightned by the word of God, he commandeth the will and remembrance to tell him the ſins of his very youth, and then his ſoul is troubled; and then that evill, old, ſubtile ſpirit, the Divel watcheth to put in his ſoul thoughts of deſpair, or elſe to ſear up his conſcience, and to blinde his underſtanding until worſe
+<pb n="9" facs="tcp:118746:5"/>
+things befall him; but the holy loving Spirit of God, will come into the young ſpirits of all his elect peo<g ref="char:EOLhyphen"/>ple, and give them faith, and hope, and experience in the love and mercy of Chriſt Jeſus, which hath paid the ranſome for all true beleevers, which pray unto him with faith and humility, he will ſurely per<g ref="char:EOLhyphen"/>form his promiſes, and ſave them for ever, and place them in glorious dwelling places in heaven, with their ſouls fully perfect, and their bodies made glorious and ſpiritual, bearing the image of the Lord of heaven; for as we have been troubled with our earthly bodies, ſo ſhall we have joy and gladneſs of our heavenly bo<g ref="char:EOLhyphen"/>dies. And our Saviour Chriſt Jeſus himſelf will ac<g ref="char:EOLhyphen"/>count us for his brethren and friends: Now I hope a<g ref="char:EOLhyphen"/>ny reaſonable man or woman will be ſatisfied in this, that this great Prince, his ſoul is a ſpiritual ſubſtance; take ſome more proofs, <hi>Luke</hi> 16. <hi>verſ.</hi> 22. <hi>And it came to paſſe, that the begger died, and was carried in<g ref="char:EOLhyphen"/>to Abrahams boſome by the Angels:</hi> Will any man be ſo ſimple to think that theſe heavenly Angels were ſent on a meſſage to carry nothing? No, no, they were ſent to carry this young princely ſpirit to eternal reſt. Another proof the faithful Theef which died that lamentable death upon the Croſſe who had been a fooliſh mad ſpirit, but by the help of Chriſt, now a patient and faithful man, and ſo our Saviour tells him, <hi>This day ſhalt thou be with me in paradiſe;</hi> this was that his ſoul ſhould be in Paradiſe; another proof is in <hi>Eccleſ.</hi> 12. <hi>v.</hi> 7. <hi>Then ſhall the duſt return to the earth as it was, and the ſpirit return to God that gave it:</hi> Here then let no man nor woman underva<g ref="char:EOLhyphen"/>lue the ſouls of themſelves or others, leſt they prove
+<pb n="10" facs="tcp:118746:6"/>
+like the ſpies of the land of <hi>Canaan,</hi> which brought up an evill report upon that good land: For certain<g ref="char:EOLhyphen"/>ly the ſouls of men, women and children, which are guided by his holy Spirit, ſhall be highly advanced in heaven, and their bodies made glorious bodies, and there to live in joy and pleaſure for evermore, which have obeyed the heavenly wiſdome of their ſouls, when they were in this world, and ſuffered ſo much pains and ſickneſs, and natural death, and lying in the grave, and turning into duſt again, which often feared and troubled their loving ſouls when they were in this life, but now being departed out of their earth<g ref="char:EOLhyphen"/>ly houſes, their bodies they there firſt reſt in heaven; and have there acquittance and pardon for all their ſins made fully known unto them, and have full know<g ref="char:EOLhyphen"/>ledge and aſſurance, that they ſhall have their own very bodies, and their own eies and ſenſes reſtored to them a<g ref="char:EOLhyphen"/>gain, at the day of the reſurrection of their bodies; at the day that God hath appointed, glorified, and freed from all ſickneſs and pains, for proof of this ſee <hi>John</hi> 5. <hi>verſ.</hi> 21. <hi>For as the Father raiſeth up the dead, and quickneth them, even ſo the Son quickneth whom he will:</hi> And <hi>verſ.</hi> 25. <hi>Verily, verily, I ſay unto you,</hi> (twice ſpoken) <hi>the hour cometh, and is already, and now is, when the dead ſhall hear the voice of the Son of God, and they that hear ſhall live.</hi> And <hi>verſ.</hi> 28. of the ſame Chapter, <hi>Marvel not at this, for the hour it coming in the which all that are in the grave ſhall hear his voice: And ſhall come forth, they that have done good to the reſurrection of life, and they that have done evill, unto the reſurrection of damnation;</hi> and in the eleventh Chapter of S. <hi>Iohn,</hi> v. 23. <hi>Ieſus ſaid
+<pb n="11" facs="tcp:118746:6"/>
+unto her, Thy brother ſhall riſe again; Martha ſaid un<g ref="char:EOLhyphen"/>to him, I know he ſhall riſe again in the reſurrection at the laſt day:</hi> Mark <hi>Marthas</hi> faith, I know he ſhall riſe again ſaith ſhe, but <hi>Ieſus</hi> ſaith plainly: <hi>I am the reſurrection and the life, he that beleeveth in me, al<g ref="char:EOLhyphen"/>though he were dead, yet ſhall he live:</hi> And in <hi>Revel.</hi> 20. <hi>verſ.</hi> 11. <hi>And I ſaw a great white throne, and him that ſat upon it, from whoſe face the earth and the heaven fled away, and there was found no place for them. And I ſaw the dead, both ſmall and great, ſtand before God: and the books were opened, and another book was opened, which was the book of life, and the dead were judged of thoſe things which were writ<g ref="char:EOLhyphen"/>ten in the books, according to their works. And the ſea gave up her dead which were in her; and death and hell delivered up the dead which were in them, and they were judged every man according to his works.</hi> This hath been written for the dignity and high no<g ref="char:EOLhyphen"/>ble birth of the ſouls of men, women, and chil<g ref="char:EOLhyphen"/>dren, which are regenerated by faith and repentance. For he that will not beleeve that his ſoul is a ſpiri<g ref="char:EOLhyphen"/>tual ſubſtance, and carried into heaven at the day of his departure from his body by the Holy Angels, and there to reſt in joy until the day of the reſurrection that he receive his own body again, with extraordinary joy and comfort; that man or woman that is ſo weak in faith will be very doubtful of the reſurrection too: Therefore loving Friends and Chriſtians, let us give no place to any vain diſputers againſt theſe truths, but let us learn by the Word of God to ſilence them. I promiſed to write ſomething of the evill ſpirits which we call Divels. Theſe ſpirits are envious
+<pb n="12" facs="tcp:118746:7"/>
+and malicious, lying and murthering Divels, and de<g ref="char:EOLhyphen"/>ceitful damned wretches. The Apoſtle S. <hi>Paul</hi> calls him, <hi>A Prince of the air, which rules in the chil<g ref="char:EOLhyphen"/>dren of diſobedience;</hi> he being a ſpirit, a ſubtle old ſpirit of experience, that rangeth about the world, ſeeking whom he may deſtroy; he is a tempter and an accuſer to: he alwaies deſires of God commiſſi<g ref="char:EOLhyphen"/>on to do mankind hurt; ſee <hi>Iob, Chap.</hi> 1. <hi>verſ.</hi> 11. <hi>But put forth thine hand, and touch all that he hath, and he will curſe thee to thy face.</hi>
+            </p>
+            <p>What a lying bold impudent Divel was this to accuſe that righteous man ſo falſly, and having got Commiſſion he raiſeth up troops and bands of wick<g ref="char:EOLhyphen"/>ed men to ſpoil his eſtate: And ſo would he ſpoil the Eſtates and Lives of Gods people now at this day, and in all ages, were he not chained up by Gods power; but he rules and blinds the underſtanding of rebellious ſinners, that they may not come to the knowledge of the truth, and ſo be ſaved. This Di<g ref="char:EOLhyphen"/>vel is the greateſt Liar that ever was: He told our Saviour, <hi>That all the Kingdoms of the world were his, and the glory of them, and that he could give them to whomſoever pleaſed him:</hi> All the cheaters and couſeners in the world could not tell a bigger lie; for he is chained up by the power of God, and hath nothing that is good for himſelf; our Lord and Sa<g ref="char:EOLhyphen"/>viour was too wiſe and ſtrong for that lying Divel; but our Grandfather and Grandmother <hi>Adam</hi> and <hi>Eve,</hi> were plainly cheated and couſened by this abo<g ref="char:EOLhyphen"/>minable Lyer. For ſaith he, you ſhall not die at all, if you eat this fruit; when as the poor cheated ſouls were judged to die, and their bodies to turn to duſt
+<pb n="13" facs="tcp:118746:7"/>
+preſently after; and their ſouls had died eternally had not our merciful Lord God found out a way to ſave faithfull beleevers.</p>
+            <p>Now any man or woman that read this little Book, may well know what chearing lying Devils there are; although knowledge be ſufficient for underſtanding men to beware, yet thoſe children of diſobedience whom this Divel doth ſo much rule in their ſouls, muſt take heed this envious cheating Lier do not cheat them ſtill, for he will tell them that they be brave wiſemen, and will tell them an hundred lies, that they be the happieſt men in the world; and that they that dare not do as they do, are but Punies; but let thoſe brave Sparks take heed they do not catch a ſerpent, inſtead of a fiſh: And ſo I am glad I have done with the Di<g ref="char:EOLhyphen"/>vel at this time.</p>
+            <p>I now will write a Word or two more of the ho<g ref="char:EOLhyphen"/>ly and bleſſed and good Angels; in the ſecond and third Chapters of the <hi>Revelation,</hi> we read of Mi<g ref="char:EOLhyphen"/>niſters called Angels, and thoſe that divide the Word of God aright amongſt us, and adminiſter the two Sacraments, which our Lord Jeſus Chriſt hath left to his Church, are Angels and good An<g ref="char:EOLhyphen"/>gels indeed, and their lips ſhall preſerve know<g ref="char:EOLhyphen"/>ledge; but our writing hath been of inviſible An<g ref="char:EOLhyphen"/>gels which are miniſtring ſpirits ſent forth for them which are heirs of Salvation: <hi>Hebrews</hi> the firſt, and the laſt Verſe; theſe <hi>glorious Spirits</hi> are an innumberable company, thouſand thouſands mi<g ref="char:EOLhyphen"/>niſtred unto him, and ten thouſand times ten thou<g ref="char:EOLhyphen"/>ſand ſtood before him, before the all-ſeeing God,
+<pb n="14" facs="tcp:118746:8"/>
+whoſe eyes behold all the inhabitants in the world at one time, and knoweth all the ſecrets of their ſouls, and heareth all their voices: In <hi>Dan.</hi> 7. <hi>verſ.</hi> 10. <hi>A fiery ſtream iſſued, and came forth before him, the judgement was ſet, and the books were open<g ref="char:EOLhyphen"/>ed:</hi> The holy Angels have divers great Offices, as you ſee in many places of the <hi>Revelation;</hi> and in the ſixt of <hi>Daniel, verſ.</hi> 22. <hi>My God hath ſent his Angel, and hath ſhut the mouth of the Lions, that they have not hurt me.</hi> Now you may know certainly that God hath made theſe ſpiritual crea<g ref="char:EOLhyphen"/>tures of great force and power: And ſo I deſire Gods bleſſing on this labour, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118746:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
